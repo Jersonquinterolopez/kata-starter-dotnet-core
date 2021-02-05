@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Jersonquinterolopez/kata-starter-dotnet-core)
+
 # AA/HU Pair Session Instructions
 
 You have likely just received a request to join a "Pairing Session" with an engineer from Acklen Avenue or Hero Unit. These instructions are meant to help you set up your environment and get you ready for success in this next step in the vetting process.
